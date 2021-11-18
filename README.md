@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @MartinReu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MartinReu/MartinReu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+It's me, @MartinReu. You've probably nerver heard of me. And i've nerver thought of writing a README for myself.
+Usually README's are written for applications and software, but here I am writing a README about me. READ me. And you cannot star this repo,
+even if you click the 'Star' button.
